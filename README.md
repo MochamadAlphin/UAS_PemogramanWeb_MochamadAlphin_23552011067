@@ -103,7 +103,8 @@ Tiket Saya
 ---
 
 ## STRUKTUR FOLDER
-<img width="241" height="952" alt="image" src="https://github.com/user-attachments/assets/c7d7541f-025a-4a88-825a-e78d3c5472ad" />
+<img width="243" height="995" alt="image" src="https://github.com/user-attachments/assets/a2c1150f-a730-492d-8fd2-bd631f969b0f" />
+
 
 ## DATABASE
 <img width="940" height="845" alt="image" src="https://github.com/user-attachments/assets/cb5b136c-d4c4-4178-a7eb-e36030f4f1b0" />
