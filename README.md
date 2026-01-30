@@ -100,6 +100,18 @@ Tiket Saya
 
 <img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/f300225d-7b43-47ed-80dd-2cb3cc03b733" />
 
+---
+
+## STRUKTUR FOLDER
+<img width="241" height="952" alt="image" src="https://github.com/user-attachments/assets/c7d7541f-025a-4a88-825a-e78d3c5472ad" />
+
+## DATABASE
+<img width="940" height="845" alt="image" src="https://github.com/user-attachments/assets/cb5b136c-d4c4-4178-a7eb-e36030f4f1b0" />
+
+---
+
+##  Lampiran
+Link Website : https://aspel.cyou/alphin
 
 ##  Pengembang
 
