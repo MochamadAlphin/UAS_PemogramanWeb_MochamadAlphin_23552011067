@@ -121,6 +121,9 @@ Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser men
 
 ---
 
+## COOKIES
+<img width="2557" height="1399" alt="image" src="https://github.com/user-attachments/assets/b2a52054-f36e-42ce-8b3f-f3e9ea551c69" />
+
 ## PENERAPAN EXCEL
 <img width="952" height="440" alt="image" src="https://github.com/user-attachments/assets/96ee6bd8-8be2-417e-a2e8-cc35dd5f6490" />
 
