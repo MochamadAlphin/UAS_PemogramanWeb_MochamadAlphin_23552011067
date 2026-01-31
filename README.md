@@ -63,13 +63,18 @@ Tiket Saya
 
 ---
 
-## Pengembangan dan Kekurangan
+## Cookie & Session
 
-- Sistem CRUD belum lengkap, saat ini hanya mendukung penambahan dan penampilan data, sedangkan fitur update dan delete masih belum tersedia sepenuhnya.
-- Footer dengan format standar belum diterapkan di semua halaman aplikasi.
-- Session dan cookies belum berjalan secara optimal sehingga beberapa halaman belum sepenuhnya terlindungi oleh sistem login.
-- Integrasi antara backend dan frontend belum sepenuhnya terhubung, beberapa fitur masih menggunakan data statis atau belum melalui API secara penuh.
-- Aplikasi belum di-hosting secara online dan masih dijalankan pada lingkungan lokal (localhost).
+1. Session
+Di Projek: Digunakan untuk menyimpan user_id setelah login berhasil.
+
+Fungsinya: Sebagai "Satpam" halaman. Di file tiket_saya.php, session mengecek apakah ada user_id yang aktif. Jika tidak ada, user ditendang balik ke login.php.
+
+2. Cookie 
+Di Projek: Secara otomatis membuat ID unik bernama PHPSESSID di browser user.
+
+Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser menunjukkan cookie ini ke server untuk bilang: "Heii, saya user yang tadi sudah login, tolong tampilkan tiket saya!"
+
 
 ---
 
