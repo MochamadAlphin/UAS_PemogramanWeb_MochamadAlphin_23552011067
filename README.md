@@ -21,9 +21,18 @@ Login / Register
 
 ↓  
 
-Dashboard
+Dashboard / tiket saya / promo / profile
+
+↓  
+
 Cari Jadwal
+
+↓  
+
 Pilih Kereta
+
+↓  
+
 Beli Tiket
 
 ↓  
