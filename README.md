@@ -119,6 +119,9 @@ Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser men
 
 <img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/f300225d-7b43-47ed-80dd-2cb3cc03b733" />
 
+## FOOTER
+<img width="1746" height="114" alt="image" src="https://github.com/user-attachments/assets/6ed5d154-209c-4a35-ba4e-e43ff39a1e62" />
+
 ---
 
 ## COOKIES
