@@ -79,7 +79,7 @@ Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser men
 ---
 
 ## RUN WEB
-![ezgif-5fb0c1cdff80ec63](https://github.com/user-attachments/assets/4a88eb45-e87a-4e2c-9bab-b7a051a7585e)
+
 
 ## LOGIN 
 
