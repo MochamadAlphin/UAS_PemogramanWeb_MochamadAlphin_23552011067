@@ -65,13 +65,13 @@ Tiket Saya
 
 ## Cookie & Session
 
-Session
+## Session
 
 Di Projek: Digunakan untuk menyimpan user_id setelah login berhasil.
 
 Fungsinya: Sebagai "Satpam" halaman. Di file tiket_saya.php, session mengecek apakah ada user_id yang aktif. Jika tidak ada, user ditendang balik ke login.php.
 
-Cookie
+## Cookie
 
 Di Projek: Secara otomatis membuat ID unik bernama PHPSESSID di browser user.
 
