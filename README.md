@@ -78,6 +78,9 @@ Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser men
 
 ---
 
+## RUN WEB
+![ezgif-5fb0c1cdff80ec63](https://github.com/user-attachments/assets/4a88eb45-e87a-4e2c-9bab-b7a051a7585e)
+
 ## LOGIN 
 
 <img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/eec8385d-0a66-427b-8ff8-b2c2a85460a3" />
@@ -116,9 +119,14 @@ Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser men
 
 ---
 
+## PENERAPAN EXCEL
+<img width="952" height="440" alt="image" src="https://github.com/user-attachments/assets/96ee6bd8-8be2-417e-a2e8-cc35dd5f6490" />
+
+## PENERAPAN PDF
+<img width="1724" height="1146" alt="image" src="https://github.com/user-attachments/assets/10b1a8ad-3ec3-4a49-b071-11a1efd1c0a6" />
+
 ## STRUKTUR FOLDER
 <img width="243" height="995" alt="image" src="https://github.com/user-attachments/assets/a2c1150f-a730-492d-8fd2-bd631f969b0f" />
-
 
 ## DATABASE
 <img width="940" height="845" alt="image" src="https://github.com/user-attachments/assets/cb5b136c-d4c4-4178-a7eb-e36030f4f1b0" />
