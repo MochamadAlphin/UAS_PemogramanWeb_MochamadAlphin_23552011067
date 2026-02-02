@@ -136,6 +136,9 @@ Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser men
 ## DATABASE
 <img width="940" height="845" alt="image" src="https://github.com/user-attachments/assets/cb5b136c-d4c4-4178-a7eb-e36030f4f1b0" />
 
+## Demo Video
+https://drive.google.com/file/d/10s5xX8fFOG-kcdqeglksuUHw1EYV7Dbi/view?usp=sharing
+
 ---
 
 ##  Lampiran
