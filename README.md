@@ -80,9 +80,6 @@ Fungsinya: Sebagai "Kartu Akses". Setiap kali user klik menu di web, browser men
 
 ---
 
-## RUN WEB
-
-
 ## LOGIN 
 
 <img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/eec8385d-0a66-427b-8ff8-b2c2a85460a3" />
